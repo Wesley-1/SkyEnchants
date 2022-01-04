@@ -1,0 +1,9 @@
+Locksmith:
+  lore: "&bLocksmith %level%"
+  commands:
+    - 'give %player% apple 20'
+    - 'give %player% emerald 10'
+    - 'give %player% iron 10'
+    - 'give %player% redstone 10'
+    - 'give %player% cactus 10'
+    - 'give %player% dirt 10'
